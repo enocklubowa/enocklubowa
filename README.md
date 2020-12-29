@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 📝️ I do some writing on my [personal blog](https://medium.com/@enocklubowa) as well as other tech blogs like [TechLeadAfrica](https://techleadafrica.com)
 
-<p align="center">Learn more about me on <a href="enocklubowa.me">enocklubowa.me</a></p>
+<p align="center">Learn more about me on <a href="https://enocklubowa.me">enocklubowa.me</a></p>
