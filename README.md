@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <!--
-**enocklubowa/enocklubowa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😄 I'm Enock Lubowa a software engineer from Kampala, Uganda.
+
+💻️ I have over 2 years experience in software development for Android. I have used major features and libraries in Android for instance fragments, multithreading, dependency injections, and more...
+
+🌱 I’m currently polishing my backend skills in Django.
+
+🤔️ I am passionate about solving problems with technology and constantly look forward to self-improvement in terms of learning and working with people.
+
+📝️ I do some writing on my [personal blog](https://medium.com/@enocklubowa) as well as other tech blogs like [TechLeadAfrica](https://techleadafrica.com)
+
+<p align="center">Learn more about me on <a href="enocklubowa.me">enocklubowa.me</a></p>
