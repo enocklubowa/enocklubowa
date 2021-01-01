@@ -23,4 +23,16 @@ Here are some ideas to get you started:
 
 📝️ I do some writing on my [personal blog](https://medium.com/@enocklubowa) as well as other tech blogs like [TechLeadAfrica](https://techleadafrica.com)
 
-<p align="center">Learn more about me on <a href="https://enocklubowa.me">enocklubowa.me</a></p>
+Learn more about me:
+
+Email: [lubowaenock34@gmail.com](mailto:lubowaenock34@gmail.com)
+
+Personal Website: [https://enocklubowa.me](https://enocklubowa.me)
+
+Blog: [https://medium.com/@enocklubowa](https://medium.com/@enocklubowa)
+
+LinkedIn: [https://www.linkedin.com/in/enocklubowa](https://www.linkedin.com/in/enocklubowa)
+
+StackOverflow: [https://stackoverflow.com/users/10123715/enock-lubowa](https://stackoverflow.com/users/10123715/enock-lubowa)
+
+Twitter: [itslubowa](https://twitter.com/itslubowa)
