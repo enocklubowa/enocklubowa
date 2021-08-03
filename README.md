@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 😄 I'm Enock Lubowa a software engineer from Kampala, Uganda.
 
-💻️ I have over 3 years experience in Android development and Java. I have used major features and libraries in Android for instance fragments, multithreading, dependency injections, and more...
+💻️ I have over 3 years experience in Android and Java development. I have used major features and libraries in Android for instance fragments, multithreading, dependency injections, and more...
 
-🌱 I’m currently polishing my backend skills in Django.
+🌱 I’m currently polishing my Kotlin skills.
 
 🤔️ I am passionate about solving problems with technology and constantly look forward to self-improvement in terms of learning and working with people.
 
-📝️ I do some writing on my [personal blog](https://medium.com/@enocklubowa) 
+📝️ When I feel motivated enough, do some writing on my [personal blog](https://medium.com/@enocklubowa) 
 
 #### Learn more about me:
 
