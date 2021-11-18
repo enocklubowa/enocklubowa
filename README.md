@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 Email: [lubowaenock34@gmail.com](mailto:lubowaenock34@gmail.com)
 
-Personal Website: [https://enocklubowa.me](https://enocklubowa.com)
+Personal Website: [https://enocklubowa.com](https://enocklubowa.com)
 
 Blog: [https://medium.com/@enocklubowa](https://medium.com/@enocklubowa)
 
