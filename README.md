@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 📝️ When motivated enough, I do some writing on my [personal blog](https://medium.com/@enocklubowa) 
 
-#### Connect with me:
+#### Connect with me if you have some exciting projects:
 
 Email: [lubowaenock34@gmail.com](mailto:lubowaenock34@gmail.com)
 
