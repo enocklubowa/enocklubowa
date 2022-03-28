@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 😄 I'm Enock Lubowa a software engineer from Kampala, Uganda.
 
-💻️ I have over 3 years experience in Android and backend development with Java using Spring MVC and Spring Boot. I have used major features and libraries in Android for instance fragments, multithreading, dependency injections, and more... As for the backend, I have a good understanding of the Spring Ecosystem which includes technologies like Spring Boot Spring JPA, Hibernate, Spring Security etc. I have an understanding of good practices for development of REST APIs that easily scale without being closely coupled with clients.
+💻️ I have over 3 years experience in Android and backend development with Java using Spring MVC and Spring Boot. I have used major features and libraries in Android for instance fragments, multithreading, dependency injections, and more... As for the backend, I have a good understanding of the Spring Ecosystem which includes technologies like Spring Boot Spring JPA, Hibernate, Spring Security etc.
 
 🤔️ I am passionate about solving problems with technology and constantly look forward to self-improvement in terms of learning and working with people.
 
