@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 
 😄 Software engineer from Kampala, Uganda.
 
-💻️ Experienced in Android and backend development. Proficient in Java, Kotlin, Spring Data, Hibernate, Relational databases etc... Familiar with Python, Redis, Event sourcing, Akka etc...
+💻️ Experienced in Android and backend development. Proficient in Java, Kotlin, Spring Data, Hibernate, Relational databases, Event sourcing, Akka etc... Familiar with Python, Redis etc...
 
-🤔️ Passionate about solving problems with technology and constantly look forward to self-improvement in terms of learning and working with people.
+🌱 Passionate about solving problems with technology and constantly look forward to self-improvement in terms of learning and working with people.
+
+📝️ I write about technologies that interest me on <a class="highlight-link" href="https://medium.com/@enocklubowa">my blog.</a>
 
 #### Connect with me if you have some exciting projects:
 
