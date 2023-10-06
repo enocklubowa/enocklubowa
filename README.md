@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 🌱 Passionate about solving problems with technology and constantly look forward to self-improvement in terms of learning and working with people.
 
-📝️ I write about technologies that interest me on <a class="highlight-link" href="https://medium.com/@enocklubowa">my blog.</a>
-
 #### Connect with me if you have some exciting projects:
 
 Email: [lubowaenock34@gmail.com](mailto:lubowaenock34@gmail.com)
